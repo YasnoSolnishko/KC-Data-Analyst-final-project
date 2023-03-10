@@ -4,7 +4,7 @@
 
 **1.1 Description**
 
-One of the main tasks of an analyst in our team is to conduct experiments correctly. To do this, we use the A/B testing method. During the testing of one hypothesis, a new payment mechanism for services on the website was proposed to the target group, while the control group retained the basic mechanism. As a task, you need to analyze the results of the experiment and make a conclusion whether to launch the new payment mechanism for all users.
+During the testing of one hypothesis, a new payment mechanism for services on the website was proposed to the target group, while the control group retained the basic mechanism. As a task, you need to analyze the results of the experiment and make a conclusion whether to launch the new payment mechanism for all users.
 
 **1.2 Input Data**
 
